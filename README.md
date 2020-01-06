@@ -4,9 +4,9 @@ The three R's – reduce, reuse and recycle – all help to cut down on the amou
 
 ## Reduce: The best way to manage waste is to not produce it. This can be done by shopping carefully and being aware of a few guidelines:
 
--Avoid over-packaged goods, especially ones packed with several materials such as foil, paper, and plastic. They are difficult to recycle, plus you pay more for the package.
--Avoid disposable goods, such as paper plates, cups, napkins, razors, and lighters. Throwaways contribute to the problem, and cost more because they must be replaced again and again.
--At work, make two-sided copies when ever possible.
+<li> -Avoid over-packaged goods, especially ones packed with several materials such as foil, paper, and plastic. They are difficult to recycle, plus you pay more for the package. </li>
+<li>-Avoid disposable goods, such as paper plates, cups, napkins, razors, and lighters. Throwaways contribute to the problem, and cost more because they must be replaced again and again.</li>
+<li> -At work, make two-sided copies when ever possible. </li>
 
 
 
