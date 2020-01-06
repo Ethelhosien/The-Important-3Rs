@@ -1,9 +1,15 @@
 ## Reduce, Reuse, Recycle
-Reduce: You can use the [editor on GitHub](https://github.com/Ethelhosien/eco-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The three R's – reduce, reuse and recycle – all help to cut down on the amount of waste we throw away. They conserve natural resources, landfill space and energy. Plus, the three R's save land and money communities must use to dispose of waste in landfills. Siting a new landfill has become difficult and more expensive due to environmental regulations and public opposition.
 
-### Markdown
+## Reduce: The best way to manage waste is to not produce it. This can be done by shopping carefully and being aware of a few guidelines:
+
+-Avoid over-packaged goods, especially ones packed with several materials such as foil, paper, and plastic. They are difficult to recycle, plus you pay more for the package.
+-Avoid disposable goods, such as paper plates, cups, napkins, razors, and lighters. Throwaways contribute to the problem, and cost more because they must be replaced again and again.
+-At work, make two-sided copies when ever possible.
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
