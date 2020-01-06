@@ -18,4 +18,4 @@
 <li> Check collection centers and curbside pickup services to see what they accept, and begin collecting those materials. These can include metal cans, newspapers, paper products, glass, plastics and oil.</li>
 <li> Consider purchasing recycled materials at work when purchasing material for office supply, office equipment or manufacturing.
   
-  [Learn more](https://www.epa.gov/recycle/recycling-basics) about recycling here
+  Learn more about recycling [here](https://www.epa.gov/recycle/recycling-basics)
