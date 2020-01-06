@@ -1,6 +1,6 @@
 ## Reduce, Reuse, Recycle
 ![R1](https://user-images.githubusercontent.com/59482454/71800212-708f0100-3092-11ea-812c-56183c59072f.jpg)
-The three R's – reduce, reuse and recycle – all help to cut down on the amount of waste we throw away. They conserve natural resources, landfill space and energy. Plus, the three R's save land and money communities must use to dispose of waste in landfills. Siting a new landfill has become difficult and more expensive due to environmental regulations and public opposition.
+<p> The three R's – reduce, reuse and recycle – all help to cut down on the amount of waste we throw away. They conserve natural resources, landfill space and energy. Plus, the three R's save land and money communities must use to dispose of waste in landfills. Siting a new landfill has become difficult and more expensive due to environmental regulations and public opposition. </p>
 
 ## Reduce: The best way to manage waste is to not produce it. This can be done by shopping carefully and being aware of a few guidelines:
 
